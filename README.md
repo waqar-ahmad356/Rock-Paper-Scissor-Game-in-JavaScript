@@ -28,6 +28,5 @@ To contribute to the development of this project, follow these steps:
 
 This project was created by waqar ahmad(https://github.com/waqar-ahmad356).
 
-## License
 
 
